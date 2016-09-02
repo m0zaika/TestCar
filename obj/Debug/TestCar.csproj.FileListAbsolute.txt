@@ -1,0 +1,8 @@
+C:\MyProgram\TestCar\TestCar\bin\Debug\TestCar.exe
+C:\MyProgram\TestCar\TestCar\bin\Debug\TestCar.pdb
+C:\MyProgram\TestCar\TestCar\obj\Debug\TestCar.csprojResolveAssemblyReference.cache
+C:\MyProgram\TestCar\TestCar\obj\Debug\TestCar.Properties.Resources.resources
+C:\MyProgram\TestCar\TestCar\obj\Debug\TestCar.csproj.GenerateResource.Cache
+C:\MyProgram\TestCar\TestCar\obj\Debug\TestCar.exe
+C:\MyProgram\TestCar\TestCar\obj\Debug\TestCar.pdb
+C:\MyProgram\TestCar\TestCar\obj\Debug\TestCar.Form1.resources
